@@ -1,16 +1,16 @@
 # Köstebek
 
-The Kostebek is a reconnaissance tool which uses firms' trademark information to discover their domain and process it. 
+The Kostebek is a reconnaissance tool which uses firms' trademark information to discover their domains.
 
 **Changelog** 
 
 v1.0.0
 
-- Get trademark information by using a text file
-- Get trademark information in TLD domains
-- Get trademark information by using Google search engine
-- Save trademark information to a file
-- saved domains in a text file from Google Search Engine
+- Search trademark information in TLD domains and write founded trademark informations to a file
+- Get the trademark informations from the file
+- Google search with using the trademark informations
+- Record trademark information which found on google search in a file
+- Record new domain information which also found on google search in a file
 
 
 **Installation**
