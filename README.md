@@ -1,4 +1,10 @@
-# Köstebek
+```
+ | |/ / (_) (_)       | |          | |            | |   
+ | ' /    ___    ___  | |_    ___  | |__     ___  | | __
+ |  <    / _ \  / __| | __|  / _ \ | '_ \   / _ \ | |/ /
+ | . \  | (_) | \__ \ | |_  |  __/ | |_) | |  __/ |   < 
+ |_|\_\  \___/  |___/  \__|  \___| |_.__/   \___| |_|\_	
+ ```
 
 The Kostebek is a reconnaissance tool which uses firms' trademark information to discover their domains.
 
