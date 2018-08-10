@@ -35,7 +35,9 @@ https://www.google.com/chrome/browser/desktop/
 
 **Example**
 
- Trademark Scan :  python3 kostebek.py -u list.txt -n Organization Name 
+ Trademark Scan :  python3 kostebek.py -u list.txt -n Organization Name
+ 
  Get Google Domains  : python3 kostebek.py -g Organization Name 
+ 
  Get Company Trademarks : python3 kostebek.py -t Organization Name
 
