@@ -52,9 +52,9 @@ __version__ = "1.0.0"
 
 def banner():
 	print("""%s
- Köstebek Domain Discovery Tool
+ Köstebek Reconnaissance tool 
  Author: Evren (@evrnyalcin)
- Contributors: Burak (@)
+ Contributors: Burak (@A_Burak_Gokalp)
  https://www.github.com/esecuritylab/kostebek
  Version: %s
 """ % (red, __version__ ))
